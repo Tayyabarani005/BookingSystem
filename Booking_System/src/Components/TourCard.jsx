@@ -1,5 +1,4 @@
 import React from 'react'
-import card1 from '../assets/card1.png'
 import {FaDollarSign,FaClock} from 'react-icons/fa'
  import { FaTrash, FaEdit } from 'react-icons/fa';
  import { useNavigate } from 'react-router-dom';
