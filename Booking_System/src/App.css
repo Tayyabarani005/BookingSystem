@@ -1,0 +1,7 @@
+.e-popup.e-datepicker.e-popup-open.custom-datepicker {
+  left: auto !important;
+  right: auto !important;
+  top: 100% !important; /* directly below the input */
+  transform: none !important;
+  margin-top: 0.25rem; /* optional spacing */
+}
