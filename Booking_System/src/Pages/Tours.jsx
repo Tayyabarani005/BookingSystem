@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import TourCard from '../Components/TourCard'
-import card1 from '../Assets/card1.png'
-import card2 from '../Assets/card2.png'
-import card3 from '../Assets/card3.png'
-import card4 from '../Assets/card4.png'
-import card5 from '../Assets/card5.png'
-import card6 from '../Assets/card6.png'
+import card1 from '../assets/card1.png'
+import card2 from '../assets/card2.png'
+import card3 from '../assets/card3.png'
+import card4 from '../assets/card4.png'
+import card5 from '../assets/card5.png'
+import card6 from '../assets/card6.png'
 function Tours() {
   return (
     <>
